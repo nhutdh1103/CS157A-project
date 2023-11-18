@@ -13,13 +13,14 @@ Instructions to run our website:
 
 Setting up:
   1. Download and unzip the folder.
-  2. Place the 'FoodiGo' folder in the {Drive you installed xampp on}/xampp/htdoc directory.
-  3. Run the XAMPP control panel (xampp-control.exe) found in xampp director
-  4. Start the Apache Server and MYSQL services in XAMPP control panel.
-  5. Open any browser, and run localhost/phpmyadmin.
-  6. IN phpMyAdmin, Create a new database with the "New" Button on the left.
-  7. Name the new database as "goceries" and click Create.
-  8. Select the newly created "goceries" database.
+  2. Change the name of folder to "FoodiGo"
+  3. Place the 'FoodiGo' folder in the {Drive you installed xampp on}/xampp/htdoc directory.
+  4. Run the XAMPP control panel (xampp-control.exe) found in xampp director
+  5. Start the Apache Server and MYSQL services in XAMPP control panel.
+  6. Open any browser, and run localhost/phpmyadmin.
+  7. IN phpMyAdmin, Create a new database with the "New" Button on the left.
+  8. Name the new database as "goceries" and click Create.
+  9. Select the newly created "goceries" database.
   8. Click on the "Import" tab at the top.
   9. Choose the 'goceries_final.sql' script and click "Go" to import the database.
   
